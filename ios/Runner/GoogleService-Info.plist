@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>669252512735-uo9l7hnuopkg7tcfmk4tpq25i72f1qrt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.669252512735-uo9l7hnuopkg7tcfmk4tpq25i72f1qrt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAz0lEd_PmxAkwkoUU9PYhFZzKuJ5ai0gc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>669252512735</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Tributerra.TributerraPrototype</string>
+	<key>PROJECT_ID</key>
+	<string>invisible-grave</string>
+	<key>STORAGE_BUCKET</key>
+	<string>invisible-grave.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:669252512735:ios:8ba657245a4e715138b26a</string>
+	<key>DATABASE_URL</key>
+	<string>https://invisible-grave.firebaseio.com</string>
+</dict>
+</plist>

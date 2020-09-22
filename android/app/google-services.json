@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669252512735",
+    "firebase_url": "https://invisible-grave.firebaseio.com",
+    "project_id": "invisible-grave",
+    "storage_bucket": "invisible-grave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669252512735:android:d01d3bdb223b78f738b26a",
+        "android_client_info": {
+          "package_name": "Tributerra.TributerraPrototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669252512735-gbc4mqsbq6rkcu09b50398mfc0fc7dt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2bFg5_XxcLEWO95or8bcmwlbSgTYSG40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669252512735-gbc4mqsbq6rkcu09b50398mfc0fc7dt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669252512735-uo9l7hnuopkg7tcfmk4tpq25i72f1qrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Tributerra.TributerraPrototype"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
